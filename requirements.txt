@@ -1,0 +1,8 @@
+langchain
+langchain-community
+sentence-transformers
+unstructured
+unstructured[pdf]
+qdrant-client
+fastapi
+uvicorn
