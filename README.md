@@ -20,7 +20,7 @@ Here are some key points about BioMistral:
 
 # UI
 
-![](Assets\ui.png)
+![](Assets/ui.png)
 
 ## Getting Started
 
